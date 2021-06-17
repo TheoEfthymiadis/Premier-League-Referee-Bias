@@ -1,0 +1,41 @@
+Teams List
+
+Arsenal
+Aston Villa
+Birmingham
+Blackburn
+Blackpool
+Bolton
+Bournemouth
+Brighton
+Burnley
+Cardiff
+Charlton
+Chelsea
+Crystal Palace
+Derby
+Everton
+Fulham
+Huddersfield
+Hull
+Leicester
+Liverpool
+Man City
+Man United
+Middlesbrough
+Newcastle
+Norwich
+Portsmouth
+QPR
+Reading
+Sheffield United
+Southampton
+Stoke
+Sunderland
+Swansea
+Tottenham
+Watford
+West Brom
+West Ham
+Wigan
+Wolves
